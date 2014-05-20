@@ -1,4 +1,4 @@
 GamingJS-Client
 ===============
 
-Client side js code for gaming interface.
+Client side js code for project gaming interface.
